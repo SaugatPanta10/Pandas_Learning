@@ -16,4 +16,4 @@ data = {
 }
 
 df = pd.DataFrame(data)
-print(df)
+df.to_csv('sample.csv')

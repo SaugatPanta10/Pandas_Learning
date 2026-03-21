@@ -1,0 +1,12 @@
+,Employee Name,Age,Department,Salary ($),Joining Date,Bonus %,Status,Remarks,Empty Column,Completely Empty Row
+0,Alice,25.0,HR,50000.0,2020-01-10,10.0,Active,Good,,
+1,Bob,30.0,IT,60000.0,2019-03-15,15.0,Inactive,Average,,
+2,Charlie,30.0,IT,60000.0,2019-03-15,15.0,Inactive,Average,,
+3,David,40.0,Finance,65000.0,2018-07-20,20.0,Active,,,
+4,Eva,,HR,58000.0,2021-05-12,,Active,Excellent,,
+5,Alice,25.0,HR,50000.0,2020-01-10,10.0,Active,Good,,
+6,Frank,28.0,IT,62000.0,2020-10-01,12.0,Inactive,Average,,
+7,,35.0,Finance,70000.0,2022-01-01,18.0,Active,Excellent,,
+8,George,,Finance,,2021-06-18,15.0,Active,Poor,,
+9,Hannah,29.0,IT,59000.0,,,Inactive,Good,,
+10,,,,,,,,,,
